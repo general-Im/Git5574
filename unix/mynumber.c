@@ -4,5 +4,11 @@ int main(){
         printf("%d",i);
         printf(" ");
     }
+    printf("\n");
+    for(int i=2;i<=100;i=i+2){
+        printf("%d",i);
+        printf(" ");
+    }
+
     return 0;
 }
